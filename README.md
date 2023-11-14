@@ -27,9 +27,9 @@ A presente trabalho tem como objetivo a fixação das ideias introduzidas até a
 
 |Variaveil                  |  Arquivo  | Distribuição |
 |:----------------------------|:-------------|:----------------|
-|$$ Q\backsim\mathbb{N}(3,3) $$    |  _data1q.dat_ |      Normal  |
-|$$ X\backsim\mathbb{U}[0,6] $$    |  _data1x.dat_ |     Uniforme     |
-|$$ Y\backsim\mathbb{E}(0.333) $$  |  _data1y.dat_ |    Exponencial   |
-|$$ T\backsim\mathbb{Y}(10,0.30) $$|  _data1t.dat_ |     Binomial     |
+|$ Q\backsim\mathbb{N}(3,3) $    |  _data1q.dat_ |      Normal  |
+|$ X\backsim\mathbb{U}[0,6] $    |  _data1x.dat_ |     Uniforme     |
+|$ Y\backsim\mathbb{E}(0.333) $  |  _data1y.dat_ |    Exponencial   |
+|$ T\backsim\mathbb{Y}(10,0.30) $|  _data1t.dat_ |     Binomial     |
 
 **(a)** Dado que conhecemos a distribuição de probabilidades de cada variável aleatória e os parâmetros que as caracterizam (Tabela 1), calcule a expectância e a variância (teóricas) de cada uma delas, usando as definições que vimos em aula.
